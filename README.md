@@ -15,7 +15,7 @@ Size = 512x512
 - Node.js
 - Yarn
 - Git
-- 
+
 ## How to run
 
 - Clone the repo
